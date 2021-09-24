@@ -19,4 +19,4 @@ __201 Daily Reading Table of Contents__
 - [Reading 15](201/class-15.md)
 
 # Code 102 Reading Notes
-__Tested out of 201, No notes taken.__
+__Tested out of 102, No notes taken.__
