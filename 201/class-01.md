@@ -28,7 +28,7 @@ This is essentially giving a name to an individual element of code, or applying 
 <p id="watermelon"> Whatever code you want to type </p>
 <p class="superfluous"> Words that have no meaning </p>
 <p class="superfluous"> More words that have no meaning </p>
-He also talks about block elements, like making a bulleted or numbered list, and inline elements, such as bolding a specific word or words.
+He also talks about block elements, like making a bulleted or numbered list, and inline elements, such as bolding a specific word or words
 
 HTML5 Layout
 This section talks a bit about headers and footers, and how they can be used both for an entire page, as well as within an idividual subsection of the page. Then it talks about the use of the <nav> tag to create a navigation pane for your website.
