@@ -2,7 +2,7 @@
 
 __201 Daily Reading Table of Contents__
 
-- [Reading 1](./class-01.md)
+- [Reading 1](201/class-01.md)
 - [Reading 2](201/class-02.md)
 - [Reading 3](201/class-03.md)
 - [Reading 4](201/class-04.md)
