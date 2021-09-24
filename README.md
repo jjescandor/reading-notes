@@ -1,6 +1,7 @@
 # Code 201 Reading Notes
 
 __201 Daily Reading Table of Contents__
+
 - [Reading 1](201/class-01.md)
 - [Reading 2](201/class-02.md)
 - [Reading 3](201/class-03.md)
