@@ -13,10 +13,10 @@ __201 Daily Reading Table of Contents__
 - [Reading 9](201/class-09.md)
 - [Reading 10](201/class-10.md)
 - [Reading 11](201/class-11.md)
-- [Reading 12](reading assignments1)
-- [Reading 13]
-- [Reading 14]
-- [Reading 15]
+- [Reading 12](201/class-12.md)
+- [Reading 13](201/class-13.md)
+- [Reading 14](201/class-14.md)
+- [Reading 15](201/class-15.md)
 
 # Code 102 Reading Notes
 __Tested out of 201, No notes taken.__
