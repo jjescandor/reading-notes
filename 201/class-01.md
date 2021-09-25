@@ -1,4 +1,4 @@
-HTML & CSS - Jon Duckett 
+#HTML & CSS - Jon Duckett 
 Structure
 In this part of the reading, the author starts out by giving a simple undestanding of DNS and how the inernet works. This is a topic that could be taken way more in depth, but the content discussed in the text book is a basic overview
 
