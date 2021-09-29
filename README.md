@@ -17,6 +17,7 @@ __201 Daily Reading Table of Contents__
 - [Reading 13](201/class-13.md)
 - [Reading 14](201/class-14.md)
 - [Reading 15](201/class-15.md)
+- [here](https://jjescandor.github.io/about-me/)
 
 # Code 102 Reading Notes
 __Tested out of 102, No notes taken.__
