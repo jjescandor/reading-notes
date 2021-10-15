@@ -15,3 +15,11 @@ A table is a structured set of data made up of rows and columns (tabular data). 
 * the timetable for a local swimming pool.
 
 Using tables for layout rather than CSS layout techniques is a bad idea
+
+Table structure: 
+ ```
+<td>Hi, I'm your first cell.</td>
+<td>I'm your second cell.</td>
+<td>I'm your third cell.</td>
+<td>I'm your fourth cell.</td>
+```
