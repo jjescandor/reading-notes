@@ -58,6 +58,6 @@ Table structure:
 ```
 Rendered Result
 
-<img width="797" alt="Screen Shot 2021-10-15 at 4 37 34 PM" src="https://user-images.githubusercontent.com/89546590/137550665-ac3d63d5-e9d4-482e-97e7-4b63399b4500.png">
+<img width="797" alt="Screen Shot 2021-10-15 at 4 37 34 PM" src="Screen Shot 2021-10-15 at 4.37.34 PM.png">
 
 
