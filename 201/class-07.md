@@ -14,3 +14,4 @@ A table is a structured set of data made up of rows and columns (tabular data). 
 * a day of the week
 * the timetable for a local swimming pool.
 
+Using tables for layout rather than CSS layout techniques is a bad idea
