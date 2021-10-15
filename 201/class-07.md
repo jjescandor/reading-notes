@@ -18,8 +18,46 @@ Using tables for layout rather than CSS layout techniques is a bad idea
 
 Table structure: 
  ```
-<td>Hi, I'm your first cell.</td>
-<td>I'm your second cell.</td>
-<td>I'm your third cell.</td>
-<td>I'm your fourth cell.</td>
+<table>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Knocky</td>
+    <td>Flor</td>
+    <td>Ella</td>
+    <td>Juan</td>
+  </tr>
+  <tr>
+    <td>Breed</td>
+    <td>Jack Russell</td>
+    <td>Poodle</td>
+    <td>Streetdog</td>
+    <td>Cocker Spaniel</td>
+  </tr>
+  <tr>
+    <td>Age</td>
+    <td>16</td>
+    <td>9</td>
+    <td>10</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Owner</td>
+    <td>Mother-in-law</td>
+    <td>Me</td>
+    <td>Me</td>
+    <td>Sister-in-law</td>
+  </tr>
+  <tr>
+    <td>Eating Habits</td>
+    <td>Eats everyone's leftovers</td>
+    <td>Nibbles at food</td>
+    <td>Hearty eater</td>
+    <td>Will eat till he explodes</td>
+  </tr>
+</table>
 ```
+Rendered Result
+
+<img width="797" alt="Screen Shot 2021-10-15 at 4 37 34 PM" src="https://user-images.githubusercontent.com/89546590/137550665-ac3d63d5-e9d4-482e-97e7-4b63399b4500.png">
+
+
