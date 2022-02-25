@@ -3,7 +3,7 @@
 
 __201 Daily Reading Table of Contents__
 
-- [Reading 1](201/class-01.md)
+- [Reading 1](301/class-01.md)
 
 # Code 201 Reading Notes
 
