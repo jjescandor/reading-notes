@@ -9,8 +9,8 @@ __201 Daily Reading Table of Contents__
 
 __201 Daily Reading Table of Contents__
 
-- [Reading 1](201 - Foundations to Software Development/class-01.md)
-- [Reading 2](201 - Foundations to Software Development/class-02.md)
+- [Reading 1](201/class-01.md)
+- [Reading 2](201/class-02.md)
 - [Reading 3](201/class-03.md)
 - [Reading 4](201/class-04.md)
 - [Reading 5](201/class-05.md)
