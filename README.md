@@ -1,7 +1,7 @@
 
 # Code 401 Reading Notes
 
-__301 Daily Reading Table of Contents__
+__401 Daily Reading Table of Contents__
 
 - [Reading 1](401/class-01.md)
 - [Reading 2](401/class-02.md)
@@ -29,7 +29,27 @@ __301 Daily Reading Table of Contents__
 __301 Daily Reading Table of Contents__
 
 - [Reading 1](301/class-01.md)
-- [Reading 1](301/class-02.md)
+- [Reading 2](301/class-02.md)
+- [Reading 3](301/class-01.md)
+- [Reading 4](301/class-02.md)
+- [Reading 5](301/class-01.md)
+- [Reading 6](301/class-02.md)
+- [Reading 7](301/class-01.md)
+- [Reading 8](301/class-02.md)
+- [Reading 9](301/class-01.md)
+- [Reading 10](301/class-02.md)
+- [Reading 11](301/class-01.md)
+- [Reading 12](301/class-02.md)
+- [Reading 13](301/class-01.md)
+- [Reading 14](301/class-02.md)
+- [Reading 15](301/class-01.md)
+- [Reading 16](301/class-02.md)
+- [Reading 17](301/class-02.md)
+- [Reading 18](301/class-01.md)
+- [Reading 19](301/class-02.md)
+- [Reading 20](301/class-01.md)
+- [Reading 21](301/class-02.md)
+
 
 
 # Code 201 Reading Notes
