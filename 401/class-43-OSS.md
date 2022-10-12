@@ -17,4 +17,4 @@ Focus on reading the documentation, especially the below two file(s), if they ar
     - README.md
     - CONTRIBUTING.md
 - Fork the repo
--   - This is straightforward. Just log in to your Github account, open the repo that you want to fork, click the fork button(top right).
+    - This is straightforward. Just log in to your Github account, open the repo that you want to fork, click the fork button(top right).
