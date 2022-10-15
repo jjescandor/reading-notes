@@ -21,7 +21,7 @@ __401 Daily Reading Table of Contents__
 - [Reading 16](401/class-16.md)
 - [Reading 17](401/class-17.md)
 - [Reading 18](401/class-18.md)
-- [Reading 43](401/class-43.md)
+- [Reading 35](401/class-43.md)
 - [Reading 36](401/class-43.md)
 - [Reading 37](401/class-43.md)
 - [Reading 38](401/class-43.md)
